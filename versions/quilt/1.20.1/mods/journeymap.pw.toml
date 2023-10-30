@@ -1,0 +1,13 @@
+name = "JourneyMap"
+filename = "nvidium-0.2.2-beta.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/lfHFW1mp/versions/O5jKsqSz/journeymap-1.20.2-5.9.15-fabric.jar"
+hash-format = "sha1"
+hash = "e3bd324220fe43cd8c7d7aa732fb55dcf881c7cf"
+
+[update]
+[update.modrinth]
+mod-id = "O5jKsqSz"
+version = "O5jKsqSz"
