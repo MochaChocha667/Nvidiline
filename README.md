@@ -1,21 +1,6 @@
-<div align="center">
-  <a href="https://github.com/intergrav/Adrenaline">
-    <img src="https://raw.githubusercontent.com/intergrav/Branding/main/adrenaline/adrenaline_textlogo_256h.png" alt="Logo" height="90">
-  </a>
-  <br />
-  <br />
-  <p align="center">
-    Lightweight performance layer with no extra features attempting to make Minecraft as fast as possible
-    <br />
-    <a href="https://github.com/intergrav/Adrenaline/wiki">Explore the wiki</a>
+    <a href="https://github.com/MochaChocha667/Nvidiline/issues">Report Bugs & request features</a>
     ·
-    <a href="https://www.youtube.com/watch?v=xiZOyZ-sblw">View Demo</a>
-    ·
-    <a href="https://github.com/intergrav/Adrenaline/issues">Report Bugs</a>
-    ·
-    <a href="https://github.com/intergrav/Adrenaline/issues">Request Features</a>
-  </p>
-  <a href="https://modrinth.com/modpack/adrenaline"><img src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/compact-minimal/available/modrinth_vector.svg" alt="Available on Modrinth"></a>
+  </p>  <a href="https://modrinth.com/modpack/adrenaline"><img src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/compact-minimal/available/modrinth_vector.svg" alt="Available on Modrinth"></a>
   <a href="https://discord.gg/36Tv44cYte"><img src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/compact-minimal/social/discord-singular_vector.svg" alt="Chat on Discord"></a>
   <a href="https://gitpod.io/from-referrer/"><img src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/compact-minimal/supported/gitpod_vector.svg" alt="Ready for Gitpod"></a>
 </div>
